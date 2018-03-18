@@ -6,5 +6,4 @@ package toong.vn.androidmvp;
  */
 
 public interface BasePresenter {
-    void start();
 }
